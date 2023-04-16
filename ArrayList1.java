@@ -29,6 +29,7 @@ public class ArrayList1 {
 			System.out.println(a2.get(q));
 		}
 		System.out.println(a2.get(2));
+		/////
 	
 	}
 	
